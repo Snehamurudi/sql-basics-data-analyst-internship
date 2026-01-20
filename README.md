@@ -41,7 +41,6 @@ Database used: MySQL
 ## Files in this Repository
 - `sql_queries.sql` → Contains all SQL queries
 - `README.md` → Task explanation
-- `interview_questions.md` → Interview Q&A
 
 ---
 
